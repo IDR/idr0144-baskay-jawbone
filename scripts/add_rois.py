@@ -57,7 +57,7 @@ def get_image(conn, image_name):
     project = conn.getObject("Project", attributes={"name": "idr0144-baskay-jawbone/experimentA"})
     for dataset in project.listChildren():
         for image in dataset.listChildren():
-            if image.name == f"{image_name}_processed.ome.tiff":
+            if image.name == f"{image_name}.ome.tiff":
                 return image
     print(f"Could not find target image {image.name}")
     return None
