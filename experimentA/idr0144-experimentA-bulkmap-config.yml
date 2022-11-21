@@ -1,0 +1,52 @@
+---
+name: idr0144-baskay-jawbone/experimentA
+version: 1
+
+defaults:
+  include: no
+  type: string
+  includeclient: yes
+  visible: yes
+  omitempty: yes
+
+columns:
+
+  - name: Characteristics [Organism Part]
+    clientname: Organism Part
+    include: yes
+
+  - name: Material Type
+    clientname: Material Type
+    include: yes
+
+  - name: Characteristics [Sex]
+    clientname: Sex
+    include: yes
+
+  - name: Characteristics [Age]
+    clientname: Age
+    include: yes
+
+  - name: Comment [Image File Comments]
+    clientname: Image File Comments
+    include: yes
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism

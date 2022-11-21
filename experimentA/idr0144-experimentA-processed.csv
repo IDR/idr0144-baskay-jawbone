@@ -1,0 +1,69 @@
+﻿Processed Data File,ROI File,ROI Features,Gound Truth File,Ground Truth Features,Segmentation File,Segmentation Features
+/PROCESSED/imgs/E_01.png,/PROCESSED/roi/E_01.png,255 (white) = ROI,,,/PROCESSED/masks/E_01.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_02.png,/PROCESSED/roi/E_02.png,255 (white) = ROI,,,/PROCESSED/masks/E_02.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_03.png,/PROCESSED/roi/E_03.png,255 (white) = ROI,,,/PROCESSED/masks/E_03.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_04.png,/PROCESSED/roi/E_04.png,255 (white) = ROI,,,/PROCESSED/masks/E_04.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_05.png,/PROCESSED/roi/E_05.png,255 (white) = ROI,,,/PROCESSED/masks/E_05.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_06.png,/PROCESSED/roi/E_06.png,255 (white) = ROI,,,/PROCESSED/masks/E_06.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_07.png,/PROCESSED/roi/E_07.png,255 (white) = ROI,,,/PROCESSED/masks/E_07.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_08.png,/PROCESSED/roi/E_08.png,255 (white) = ROI,,,/PROCESSED/masks/E_08.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_09.png,/PROCESSED/roi/E_09.png,255 (white) = ROI,,,/PROCESSED/masks/E_09.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_10.png,/PROCESSED/roi/E_10.png,255 (white) = ROI,,,/PROCESSED/masks/E_10.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_11.png,/PROCESSED/roi/E_11.png,255 (white) = ROI,,,/PROCESSED/masks/E_11.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_12.png,/PROCESSED/roi/E_12.png,255 (white) = ROI,,,/PROCESSED/masks/E_12.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_13.png,/PROCESSED/roi/E_13.png,255 (white) = ROI,,,/PROCESSED/masks/E_13.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_14.png,/PROCESSED/roi/E_14.png,255 (white) = ROI,,,/PROCESSED/masks/E_14.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_15.png,/PROCESSED/roi/E_15.png,255 (white) = ROI,,,/PROCESSED/masks/E_15.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_16.png,/PROCESSED/roi/E_16.png,255 (white) = ROI,,,/PROCESSED/masks/E_16.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_17.png,/PROCESSED/roi/E_17.png,255 (white) = ROI,,,/PROCESSED/masks/E_17.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_18.png,/PROCESSED/roi/E_18.png,255 (white) = ROI,,,/PROCESSED/masks/E_18.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_19.png,/PROCESSED/roi/E_19.png,255 (white) = ROI,,,/PROCESSED/masks/E_19.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_20.png,/PROCESSED/roi/E_20.png,255 (white) = ROI,,,/PROCESSED/masks/E_20.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_21.png,/PROCESSED/roi/E_21.png,255 (white) = ROI,,,/PROCESSED/masks/E_21.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_22.png,/PROCESSED/roi/E_22.png,255 (white) = ROI,,,/PROCESSED/masks/E_22.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_23.png,/PROCESSED/roi/E_23.png,255 (white) = ROI,,,/PROCESSED/masks/E_23.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_24.png,/PROCESSED/roi/E_24.png,255 (white) = ROI,,,/PROCESSED/masks/E_24.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_25.png,/PROCESSED/roi/E_25.png,255 (white) = ROI,,,/PROCESSED/masks/E_25.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_26.png,/PROCESSED/roi/E_26.png,255 (white) = ROI,,,/PROCESSED/masks/E_26.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_27.png,/PROCESSED/roi/E_27.png,255 (white) = ROI,,,/PROCESSED/masks/E_27.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_28.png,/PROCESSED/roi/E_28.png,255 (white) = ROI,,,/PROCESSED/masks/E_28.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/E_29.png,/PROCESSED/roi/E_29.png,255 (white) = ROI,,,/PROCESSED/masks/E_29.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_01.png,/PROCESSED/roi/F_01.png,255 (white) = ROI,,,/PROCESSED/masks/F_01.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_02.png,/PROCESSED/roi/F_02.png,255 (white) = ROI,,,/PROCESSED/masks/F_02.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_03.png,/PROCESSED/roi/F_03.png,255 (white) = ROI,,,/PROCESSED/masks/F_03.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_05.png,/PROCESSED/roi/F_05.png,255 (white) = ROI,,,/PROCESSED/masks/F_05.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_06.png,/PROCESSED/roi/F_06.png,255 (white) = ROI,,,/PROCESSED/masks/F_06.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_07.png,/PROCESSED/roi/F_07.png,255 (white) = ROI,,,/PROCESSED/masks/F_07.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_08.png,/PROCESSED/roi/F_08.png,255 (white) = ROI,,,/PROCESSED/masks/F_08.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_09.png,/PROCESSED/roi/F_09.png,255 (white) = ROI,,,/PROCESSED/masks/F_09.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_12.png,/PROCESSED/roi/F_12.png,255 (white) = ROI,,,/PROCESSED/masks/F_12.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_13.png,/PROCESSED/roi/F_13.png,255 (white) = ROI,,,/PROCESSED/masks/F_13.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_14.png,/PROCESSED/roi/F_14.png,255 (white) = ROI,,,/PROCESSED/masks/F_14.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_15.png,/PROCESSED/roi/F_15.png,255 (white) = ROI,,,/PROCESSED/masks/F_15.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_16.png,/PROCESSED/roi/F_16.png,255 (white) = ROI,,,/PROCESSED/masks/F_16.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_18.png,/PROCESSED/roi/F_18.png,255 (white) = ROI,,,/PROCESSED/masks/F_18.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_19.png,/PROCESSED/roi/F_19.png,255 (white) = ROI,,,/PROCESSED/masks/F_19.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_20.png,/PROCESSED/roi/F_20.png,255 (white) = ROI,,,/PROCESSED/masks/F_20.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_21.png,/PROCESSED/roi/F_21.png,255 (white) = ROI,,,/PROCESSED/masks/F_21.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_22.png,/PROCESSED/roi/F_22.png,255 (white) = ROI,,,/PROCESSED/masks/F_22.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_24.png,/PROCESSED/roi/F_24.png,255 (white) = ROI,,,/PROCESSED/masks/F_24.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_25.png,/PROCESSED/roi/F_25.png,255 (white) = ROI,,,/PROCESSED/masks/F_25.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_26.png,/PROCESSED/roi/F_26.png,255 (white) = ROI,,,/PROCESSED/masks/F_26.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_27.png,/PROCESSED/roi/F_27.png,255 (white) = ROI,,,/PROCESSED/masks/F_27.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_28.png,/PROCESSED/roi/F_28.png,255 (white) = ROI,,,/PROCESSED/masks/F_28.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_29.png,/PROCESSED/roi/F_29.png,255 (white) = ROI,,,/PROCESSED/masks/F_29.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_30.png,/PROCESSED/roi/F_30.png,255 (white) = ROI,,,/PROCESSED/masks/F_30.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_32.png,/PROCESSED/roi/F_32.png,255 (white) = ROI,,,/PROCESSED/masks/F_32.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_33.png,/PROCESSED/roi/F_33.png,255 (white) = ROI,,,/PROCESSED/masks/F_33.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_34.png,/PROCESSED/roi/F_34.png,255 (white) = ROI,,,/PROCESSED/masks/F_34.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_35.png,/PROCESSED/roi/F_35.png,255 (white) = ROI,,,/PROCESSED/masks/F_35.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_36.png,/PROCESSED/roi/F_36.png,255 (white) = ROI,,,/PROCESSED/masks/F_36.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_37.png,/PROCESSED/roi/F_37.png,255 (white) = ROI,,,/PROCESSED/masks/F_37.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_38.png,/PROCESSED/roi/F_38.png,255 (white) = ROI,,,/PROCESSED/masks/F_38.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_40.png,/PROCESSED/roi/F_40.png,255 (white) = ROI,/PROCESSED/ground_truth/F_40.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_40.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_41.png,/PROCESSED/roi/F_41.png,255 (white) = ROI,/PROCESSED/ground_truth/F_41.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_41.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_42.png,/PROCESSED/roi/F_42.png,255 (white) = ROI,/PROCESSED/ground_truth/F_42.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_42.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_43.png,/PROCESSED/roi/F_43.png,255 (white) = ROI,/PROCESSED/ground_truth/F_43.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_43.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_44.png,/PROCESSED/roi/F_44.png,255 (white) = ROI,/PROCESSED/ground_truth/F_44.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_44.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_45.png,/PROCESSED/roi/F_45.png,255 (white) = ROI,/PROCESSED/ground_truth/F_45.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_45.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
+/PROCESSED/imgs/F_46.png,/PROCESSED/roi/F_46.png,255 (white) = ROI,/PROCESSED/ground_truth/F_46.png,255 (white) = soft tissue; 192 (light gray) & 128 (medium gray) = bone graft material; 64 (dark gray) = bone tissue,/PROCESSED/masks/F_46.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
