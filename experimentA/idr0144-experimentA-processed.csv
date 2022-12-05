@@ -1,4 +1,4 @@
-﻿Processed Data File,ROI File,ROI Features,Gound Truth File,Ground Truth Features,Segmentation File,Segmentation Features
+﻿Processed Data File,ROI File,ROI Features,Ground Truth File,Ground Truth Features,Segmentation File,Segmentation Features
 /PROCESSED/imgs/E_01.png,/PROCESSED/roi/E_01.png,255 (white) = ROI,,,/PROCESSED/masks/E_01.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
 /PROCESSED/imgs/E_02.png,/PROCESSED/roi/E_02.png,255 (white) = ROI,,,/PROCESSED/masks/E_02.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue
 /PROCESSED/imgs/E_03.png,/PROCESSED/roi/E_03.png,255 (white) = ROI,,,/PROCESSED/masks/E_03.png,255 (white) = soft tissue; 128 (gray) = bone graft material; 0 (black) = bone tissue

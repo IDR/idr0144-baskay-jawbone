@@ -1,0 +1,104 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.							
+							
+# STUDY DESCRIPTION SECTION							
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details							
+							
+Comment[IDR Study Accession]	idr0144						
+Study Title	Reconstructing 3D histological structures using machine learning (AI) algorithms						
+Study Type	histology						
+Study Type Term Source REF							
+Study Type Term Accession							
+Study Description	The goal of this study is to present a methodology to create 3 dimensional structures reconstructed from high resolution histological sections by utilizing convolutional neural networks to annotate the images, discard the folded and/or torn section with an unsupervised information-theory-based clustering algorithm and apply Homography to correct perspective of each image. The resulting models then can be used for 3 dimensional micromorphometry analysis to aid the decision making process of medical professionals.						
+Study Key Words	machine learning	histology	image matching	digital whole slide	CBCT						
+Study Organism	Homo sapiens						
+Study Organism Term Source REF	NCBITaxon							
+Study Organism Term Accession	9606						
+Study Experiments Number	1						
+Study External URL		
+Study BioImage Archive Accession					
+Study Public Release Date	2022-12-08						
+							
+# Study Publication							
+Study PubMed ID							
+Study Publication Title	Reconstructing 3D histological structures using machine learning (AI) algorithms							
+Study Author List	Baskay J, Kivovics M, Penzes D, Kontsek E, Pesti A, Szocska M, Nemeth O, Pollner P						
+Study PMC ID							
+Study DOI							
+							
+# Study Contacts							
+Study Person Last Name	Baskay						
+Study Person First Name	Janos						
+Study Person Email	baskayj@student.elte.hu						
+Study Person Address	H-1117, Pazmany Peter setany 1/a Budapest, Hungary					
+Study Person ORCID	0000-0002-2841-3021						
+Study Person Roles	submitter, data scientist						
+							
+# Study License and Data DOI							
+Study License	CC BY 4.0						
+Study License URL	https://creativecommons.org/licenses/by/4.0/						
+Study Copyright	Baskay et al			
+Study Data Publisher	University of Dundee						
+Study Data DOI							
+							
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi			
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/			
+							
+							
+# EXPERIMENT SECTION							
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment						
+							
+Experiment Number	1						
+Comment[IDR Experiment Name]	idr0144-baskay-jawbone/experimentA	
+Experiment Sample Type	tissue					
+Experiment Description	Bright-field scans of histological sections of trabecular bone from homo sapiens jaw.						
+Experiment Size	2D Images: 	Average Image Dimension (XYC):	100000x200000x256	Total Tb	0.291		
+Experiment Example Images							
+Experiment Imaging Method	bright-field microscopy						
+Experiment Imaging Method Term Source REF	Fbbi						
+Experiment Imaging Method Term Accession	FBbi_00000243						
+Experiment Organism							
+Experiment Organism Term Source REF	NCBITaxon						
+Experiment Organism Term Accession							
+Experiment Comments							
+							
+# assay files							
+Experiment Assay File	idr0144-experimentA-annotation					
+Experiment Assay File Format	tab-delimited text						
+Assay Experimental Conditions							
+Assay Experimental Conditions Term Source REF							
+Assay Experimental Conditions Term Accession							
+Quality Control Description	All scans were validated by two bioengineers, annotations for the training set were created by board certified medical practitioners.						
+							
+# Protocols							
+Protocol Name	bone core biopsy harvesting	histological processing and scanning	3d reconstruction				
+Protocol Type	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol				
+Protocol Type Term Source REF	EFO						
+Protocol Type Term Accession	EFO_0003969						
+Protocol Description	Under local anaesthesia bone core biopsy samples were harvested with a trephine drill. Osteotomies were finalised according to the manufacturer's instructions and dental implants were placed.	Decalcification, embedding in FFPE, 5 µm thick serial sections, HE staining,scanning (3DHistech Pannoramic® 1000 Digital Slide Scanner).	Roi detection, downscaling, filetring, image segmentation, perpective correction.  				
+							
+# Phenotypes							
+Phenotype Name							
+Phenotype Description							
+Phenotype Score Type							
+Phenotype Term Source REF	CMPO						
+Phenotype Term Name							
+Phenotype Term Accession			 				
+							
+							
+# Feature Level Data Files (give individual file details unless there is one file per well)							
+Feature Level Data File Name							
+Feature Level Data File Format							
+Feature Level Data File Description							
+Feature Level Data Column Name					
+Feature Level Data Column Description							
+							
+#  Processed Data Files 							
+Processed Data File Name	idr0144-experimentA-processed						
+Processed Data File Format	tab-delimited text						
+Processed Data File Description	Downscaled images and corresponding ROI, ground truth created by medical professionals,monochrome segmentation maps made by AI.						
+Processed Data Column Name	Processed Data File	ROI File	ROI Features	Ground Truth File	Ground Truth Features	Segmentation File	Segmentation Features
+Processed Data Column Type	data	data	features	data	features	data	features
+Processed Data Column Annotation Level							
+Processed Data Column Description	downscaled images from the source files	region of interest corresponding to the donscaled images	a list of features and their corresponding values	annotations created by medical professionals	a list of features and their corresponding values	segmentation maps made by AI	a list of features and their corresponding values
+Processed Data Column Link To Assay File	Processed Data File						
+							
